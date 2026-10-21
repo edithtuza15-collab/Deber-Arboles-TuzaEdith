@@ -54,3 +54,4 @@ classDiagram
     ArbolBiblioteca --> NodoUnidad
 ```
 
+<img width="193" height="345" alt="image" src="https://github.com/user-attachments/assets/a81ea4a2-0692-443d-849b-1c60781bd2d5" />

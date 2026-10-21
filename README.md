@@ -1,12 +1,12 @@
 # Deber-Arboles-TuzaEdith
 
 **Estudiante:** Tuza Edith
-### 1. 🎯 Objetivo del Deber
+### 1. Objetivo del Deber
 Implementar en Java un árbol general n-ario y un Árbol Binario de Búsqueda (ABB) mediante POO y recursividad, aplicando inserción, búsqueda, recorridos, eliminación y análisis de estructura, según APE 3.
 
 Caso práctico: La Biblioteca FISEI se organiza en Áreas y cada Área en Estantes. Esta jerarquía es el árbol general. Cada Estante almacena sus libros en un ABB ordenado por código (entero positivo, sin repetidos).
 
-### 2. 🏛️ Estructura Inicial Obligatoria
+### 2. Estructura Inicial Obligatoria
 BIB Biblioteca FISEI
 ├── SW Software
 │ ├── SW-E1 Estante 1 de Software → 60, 35, 80, 20, 45, 70, 90, 40, 75
@@ -16,7 +16,7 @@ BIB Biblioteca FISEI
 └── TEL Telecomunicaciones
 Total: 7 unidades, 4 hojas, altura 2 aristas, 13 libros.
 
-### 3. 📂 Organización del Proyecto y Clases
+### 3. Organización del Proyecto y Clases
 
 | Paquete | Clase | Descripción |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@ Total: 7 unidades, 4 hojas, altura 2 aristas, 13 libros.
 
 Restricción: Todo recursivo. Prohibido TreeSet, TreeMap, Collections.sort, List.sort.
 
-### 4. 🚀 Instrucciones de Ejecución
+### 4. Instrucciones de Ejecución
 
 **Pasos:**
 1. Clonar el repositorio:
@@ -56,7 +56,7 @@ Restricción: Todo recursivo. Prohibido TreeSet, TreeMap, Collections.sort, List
 7. Ejecutar los retos
 8. Salir
 
-### 5. ✅ Casos de Prueba Verificados
+### 5. Casos de Prueba Verificados
 
 La clase PruebasBiblioteca.java valida:
 - Biblioteca solo con raíz: altura 0 y 1 hoja
@@ -71,7 +71,7 @@ La clase PruebasBiblioteca.java valida:
 - Libro con datos inválidos: IllegalArgumentException
 - esABBValido() con nieto mal ubicado: false
 
-### 6. 📸 Evidencia de Ejecución - PruebasBiblioteca
+### 6. Evidencia de Ejecución - PruebasBiblioteca
 
 Cuando ejecutes PruebasBiblioteca, debe salir 10/10 OK. Pega tu captura aquí:
 

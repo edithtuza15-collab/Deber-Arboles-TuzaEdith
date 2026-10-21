@@ -1,11 +1,11 @@
 ## Diagrama de Clases
+```mermaid
 classDiagram
     class TipoUnidad {
         <<enumeration>>
         BIBLIOTECA
         AREA
         ESTANTE
-        +puedeTenerHijo(hijo) bool
     }
     class TipoRecorrido {
         <<enumeration>>
@@ -34,9 +34,6 @@ classDiagram
         +insertar(libro) bool
         +buscar(codigo) Libro
         +eliminar(codigo) bool
-        +recorrer(tipo) List
-        +contarEnRango(a,b) int
-        +esABBValido() bool
     }
     class NodoUnidad {
         -dato: UnidadBiblioteca
@@ -45,14 +42,15 @@ classDiagram
     }
     class ArbolBiblioteca {
         -raiz: NodoUnidad
-        +agregar(codigoPadre, nueva) bool
-        +buscar(codigo) NodoUnidad
+        +agregar() bool
+        +buscar() NodoUnidad
         +altura() int
-        +contarHojas() int
     }
+
     NodoUnidad --> UnidadBiblioteca
     NodoUnidad --> CatalogoABB
     NodoLibro --> Libro
     CatalogoABB --> NodoLibro
     ArbolBiblioteca --> NodoUnidad
-<img width="273" height="344" alt="image" src="https://github.com/user-attachments/assets/78e8da52-20ef-478f-8bc6-486f6e161f07" />
+```
+

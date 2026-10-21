@@ -74,6 +74,8 @@ La clase PruebasBiblioteca.java valida:
 ### 6. Evidencia de Ejecución - PruebasBiblioteca
 
 Cuando ejecutes PruebasBiblioteca, debe salir 10/10 OK. Pega tu captura aquí:
+<img width="611" height="457" alt="image" src="https://github.com/user-attachments/assets/4ad94eb5-4fdd-4a31-a22a-7640357c6495" />
+
 
 <img width="597" height="462" alt="image" src="https://github.com/user-attachments/assets/7fd83c43-3e28-4549-9a99-320a31120fef" />
 

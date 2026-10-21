@@ -1,13 +1,6 @@
 # Deber-Arboles-TuzaEdith
-![Java](https://img.shields.io/badge/Java-17%2B-orange)
-![Estructura de Datos](https://img.shields.io/badge/Estructura%20de%20Datos-%C3%81rboles-blue)
-![Estado](https://img.shields.io/badge/Estado-Terminado-green)
 
 **Estudiante:** Tuza Edith
-**Asignatura:** Estructura de Datos - Tercero Ingeniería de Software
-**Fecha Entrega:** 22 de octubre de 2026 - 07:00 AM
-**Repositorio:** Deber-Arboles-TuzaEdith
-
 ### 1. 🎯 Objetivo del Deber
 Implementar en Java un árbol general n-ario y un Árbol Binario de Búsqueda (ABB) mediante POO y recursividad, aplicando inserción, búsqueda, recorridos, eliminación y análisis de estructura, según APE 3.
 

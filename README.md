@@ -1,6 +1,4 @@
 # Deber-Arboles-TuzaEdith
-# 📚 Deber-Árboles - Catálogo Biblioteca FISEI | Tuza Edith
-
 ![Java](https://img.shields.io/badge/Java-17%2B-orange)
 ![Estructura de Datos](https://img.shields.io/badge/Estructura%20de%20Datos-%C3%81rboles-blue)
 ![Estado](https://img.shields.io/badge/Estado-Terminado-green)

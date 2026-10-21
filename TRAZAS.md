@@ -74,7 +74,7 @@ VISITA 60
       null -> regresa
 Secuencia PREORDEN: 60 35 20 17 11 45 40 80 70 75 71 90
 
-6. TRES ELIMINACIONES PARA EL PDF
+6. TRES ELIMINACIONES 
 - Eliminar hoja: Eliminar 11
   Preorden: 60 35 20 17 45 40 80 70 75 71 90
 
